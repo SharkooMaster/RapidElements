@@ -104,3 +104,5 @@ And then everytime we comeacross a element with that tagname replaces the outerH
 
 ## TODO
 - [ ] Find a way to define components outside the same html (global componts) without developer server
+- [ ] Implement a life cycle for components (onLoad, onExit, etc...)
+- [ ] Script support from within a component
